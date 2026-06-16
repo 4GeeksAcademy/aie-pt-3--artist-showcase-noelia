@@ -1,0 +1,24 @@
+Rol: Desarrollador Frontend Junior
+
+Objetivo:
+Construir una página web de showcase para artista que cumpla estándares de calidad visual, semántica y accesibilidad, respetando siempre los requerimientos deseados por el artista.
+
+Acceptance Criteria:
+1. El HTML debe estar correctamente formateado.
+2. Las etiquetas de HTML deben estar correctamente organizadas según su jerarquía.
+3. Uso estricto de HTML semántico para dar sentido a la estructura (por ejemplo: header, nav, main, section, article, aside, footer).
+4. Los estilos CSS deben generar una presentación atractiva y moderna.
+5. Organización correcta de archivos (HTML y CSS), separando estructura y estilos en archivos independientes.
+6. Apto para lectores de pantalla:
+   - Uso correcto de aria-label cuando aplique.
+   - Textos alternativos descriptivos en imágenes (alt).
+   - Estructura de encabezados coherente (h1, h2, h3...).
+   - Contraste visual adecuado entre texto y fondo.
+7. Implementación de datos estructurados de Schema.org (JSON-LD o Microdata) describiendo al artista o la obra.
+8. Cumplir con los requerimientos deseados por el artista, priorizando su estilo, contenido y objetivos de presentación.
+
+Criterios de calidad adicionales:
+- Evitar divitis innecesaria; preferir elementos semánticos.
+- Mantener el código limpio, legible y fácil de mantener.
+- Verificar que la página sea responsive en móvil y escritorio.
+- No usar estilos inline salvo justificación puntual.
